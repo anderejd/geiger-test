@@ -5,5 +5,5 @@ authors = ["anderejd <rajder@gmail.com>"]
 edition = "2018"
 
 [dependencies]
-idna = "0.1.5"
-generational-arena = "0.2.2"
+idna = "0.2.0"
+generational-arena = "0.2.6"
